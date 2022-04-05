@@ -7,7 +7,7 @@ import logging
 
 
 os.system("clear")
-os.system("toilet -f mono12 -F crop DANIEL FACESHARP")
+os.system("toilet -f mono12 -F crop DXFB")
 print 
 print 'Author : Daniel Derefaka(Dx)'
 print
